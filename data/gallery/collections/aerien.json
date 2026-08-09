@@ -1,8 +1,7 @@
 [
-  { "file": "Photo1-aerien.jpg", "alt": "Vík i Myrdal", "height": 320, "caption": "Islande - Vík i Myrdal - 2025" },
-  { "file": "Photo2-aerien.jpg", "alt": "Brúarfoss", "height": 260, "caption": "Islande - Brúarfoss - 2025" },
-  { "file": "Photo3-aerien.jpg", "alt": "Viking village", "height": 280, "caption": "Islande - Viking village - 2025" },
-  { "file": "Photo4-aerien.jpg", "alt": "DC-3 Eyvindarholt", "height": 220, "caption": "Islande - DC-3 Eyvindarholt - 2025" },
-  { "file": "Photo5-aerien.jpg", "alt": "Château de Haut-Andlau", "height": 300, "caption": "Grand-Est - Château de Haut-Andlau - 2025" },
-  { "file": "Photo6-aerien.jpg", "alt": "Plobsheim", "height": 480, "caption": "Grand-Est - Plobsheim - 2025" }
+  { "file": "Photo001-aerien.webp", "alt": "Vík i Myrdal", "height": 320, "caption": "Islande - Vík i Myrdal - 2025" },
+  { "file": "Photo002-aerien.webp", "alt": "Brúarfoss", "height": 260, "caption": "Islande - Brúarfoss - 2025" },
+  { "file": "Photo003-aerien.webp", "alt": "Viking village", "height": 280, "caption": "Islande - Viking village - 2025" },
+  { "file": "Photo004-aerien.webp", "alt": "DC-3 Eyvindarholt", "height": 220, "caption": "Islande - DC-3 Eyvindarholt - 2025" },
+  { "file": "Photo005-aerien.webp", "alt": "Château de Haut-Andlau", "height": 300, "caption": "Grand-Est - Château de Haut-Andlau - 2025" }
 ]
