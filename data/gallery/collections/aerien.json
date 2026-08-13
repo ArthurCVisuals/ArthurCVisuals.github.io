@@ -1,7 +1,10 @@
 [
-  { "file": "Photo001-aerien.webp", "alt": "Vík i Myrdal", "height": 320, "caption": "Islande - Vík i Myrdal - 2025" },
-  { "file": "Photo002-aerien.webp", "alt": "Brúarfoss", "height": 260, "caption": "Islande - Brúarfoss - 2025" },
+  { "file": "Photo008-aerien.webp", "alt": "Château de Saint-Ulrich", "height": 320, "caption": "France - Ribeauvillé - 2026" },
+  { "file": "Photo007-aerien.webp", "alt": "Temple du Donon", "height": 640, "caption": "France - Grandfontaine - 2026" },
+  { "file": "Photo006-aerien.webp", "alt": "Vík i Myrdal", "height": 380, "caption": "Islande - Vík i Myrdal - 2025" },
+  { "file": "Photo005-aerien.webp", "alt": "DC-3 Eyvindarholt", "height": 220, "caption": "Islande - DC-3 Eyvindarholt - 2025" },
+  { "file": "Photo004-aerien.webp", "alt": "Brúarfoss", "height": 260, "caption": "Islande - Brúarfoss - 2025" },
   { "file": "Photo003-aerien.webp", "alt": "Viking village", "height": 280, "caption": "Islande - Viking village - 2025" },
-  { "file": "Photo004-aerien.webp", "alt": "DC-3 Eyvindarholt", "height": 220, "caption": "Islande - DC-3 Eyvindarholt - 2025" },
-  { "file": "Photo005-aerien.webp", "alt": "Château de Haut-Andlau", "height": 300, "caption": "Grand-Est - Château de Haut-Andlau - 2025" }
+  { "file": "Photo002-aerien.webp", "alt": "Château de Haut-Andlau", "height": 300, "caption": "France - Château de Haut-Andlau - 2025" },
+  { "file": "Photo001-aerien.webp", "alt": "Plan d'eau Plobsheim", "height": 540, "caption": "France - Plobsheim - 2025" }
 ]
