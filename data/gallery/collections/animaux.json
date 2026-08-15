@@ -1,12 +1,13 @@
 [
-  { "file": "Photo1-animaux.jpg", "alt": "Cygne", "height": 280, "caption": "Grand-Est - Réserve naturelle - 2025" },
-  { "file": "Photo2-animaux.jpg", "alt": "Comoran", "height": 230, "caption": "Grand-Est - Réserve naturelle - 2025" },
-  { "file": "Photo3-animaux.jpg", "alt": "Cygne", "height": 380, "caption": "Grand-Est - Réserve naturelle - 2025" },
-  { "file": "Photo4-animaux.jpg", "alt": "Pic épeiche", "height": 220, "caption": "Grand-Est - Réserve naturelle - 2025" },
-  { "file": "Photo5-animaux.jpg", "alt": "Zèbre", "height": 420, "caption": "Afrique du Sud - Parc Kruger - 2024" },
-  { "file": "Photo6-animaux.jpg", "alt": "Calao leucomèle", "height": 280, "caption": "Afrique du Sud - Parc Kruger - 2024" },
-  { "file": "Photo7-animaux.jpg", "alt": "Choucador à oreillons bleus", "height": 260, "caption": "Afrique du Sud - Parc Kruger - 2024" },
-  { "file": "Photo8-animaux.jpg", "alt": "Elephant d'Afrique", "height": 280, "caption": "Afrique du Sud - Parc Kruger - 2024" },
-  { "file": "Photo9-animaux.jpg", "alt": "Impala", "height": 280, "caption": "Afrique du Sud - Parc Kruger - 2024" },
-  { "file": "Photo10-animaux.jpg", "alt": "Hyène", "height": 350, "caption": "Afrique du Sud - Parc Kruger - 2024" }
+  { "file": "Photo011-animaux.webp", "alt": "Panda géant", "height": 420, "caption": "Chine - Chengdu - 2026" },
+  { "file": "Photo010-animaux.webp", "alt": "Macaque", "height": 390, "caption": "Chine - Zhangjiajie - 2026" },  
+  { "file": "Photo009-animaux.webp", "alt": "Cygne", "height": 280, "caption": "Allemagne - Hohenschwangau - 2026" },
+  { "file": "Photo008-animaux.webp", "alt": "Suricate", "height": 360, "caption": "Allemagne - Fribourg-en-Brisgau - 2026" },  
+  { "file": "Photo007-animaux.webp", "alt": "Macareux", "height": 310, "caption": "Islande - Ingólfshöfði - 2025" },
+  { "file": "Photo006-animaux.webp", "alt": "Cygne", "height": 290, "caption": "France - Grand-Est - 2025" },
+  { "file": "Photo005-animaux.webp", "alt": "Comoran", "height": 390, "caption": "France - Grand-Est - 2025" },
+  { "file": "Photo004-animaux.webp", "alt": "Zèbre", "height": 420, "caption": "Afrique du Sud - Parc Kruger - 2024" },
+  { "file": "Photo003-animaux.webp", "alt": "Elephant d'Afrique", "height": 280, "caption": "Afrique du Sud - Parc Kruger - 2024" },
+  { "file": "Photo002-animaux.webp", "alt": "Impala", "height": 280, "caption": "Afrique du Sud - Parc Kruger - 2024" },
+  { "file": "Photo001-animaux.webp", "alt": "Calao leucomèle", "height": 280, "caption": "Afrique du Sud - Parc Kruger - 2024" }
 ]
